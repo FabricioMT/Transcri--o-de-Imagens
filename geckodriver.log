@@ -1,0 +1,479 @@
+1652406412730	geckodriver	INFO	Listening on 127.0.0.1:65157
+1652406419975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65158" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile3rLOcA"
+1652406426627	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:65158/devtools/browser/19eece39-5c30-4be4-9b95-107ada927ba3
+1652406433553	Marionette	INFO	Listening on port 65177
+1652406434325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile3rLOcA\thumbnails) because it does not exist
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.jsm, line 217: TypeError: watcher is undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1700:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile3rLOcA\thumbnails) because it does not exist
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1700:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: resource://devtools/client/inspector/rules/rules.js, line 1107: TypeError: this._elementStyle is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2320))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 956))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:956:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+setNodeFront@resource://devtools/client/framework/selection.js:206:10
+onDetached@resource://devtools/client/inspector/inspector.js:1700:20
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Can not send request 'getUniqueSelector' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://devtools/client/inspector/rules/rules.js, line 1107: TypeError: this._elementStyle is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1652413683153	Marionette	INFO	Stopped listening on port 65177
+[Parent 13676, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+ errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652409300334	Marionette	INFO	Stopped listening on port 50723
+[Parent 17476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1652409626139	geckodriver	INFO	Listening on 127.0.0.1:51070
+1652409631405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51071" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileflG6DR"
+1652409631950	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:51071/devtools/browser/dde3d6a5-d1bf-4d5c-8ea7-c3f7e9ebb5d0
+1652409634540	Marionette	INFO	Listening on port 51080
+1652409634657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652409638653	Marionette	INFO	Stopped listening on port 51080
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652409706384	geckodriver	INFO	Listening on 127.0.0.1:51164
+1652409711447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51165" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile6B3NkT"
+*** You are running in headless mode.
+1652409711818	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51165/devtools/browser/189a8ea3-80e9-4da9-b114-d5c96c350923
+1652409713294	Marionette	INFO	Listening on port 51173
+1652409713556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652409717035	Marionette	INFO	Stopped listening on port 51173
+1652409740952	geckodriver	INFO	Listening on 127.0.0.1:51237
+1652409746098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51238" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilec8JqUc"
+*** You are running in headless mode.
+1652409746445	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51238/devtools/browser/55f38ae9-edc6-419f-a042-0a4ce1fdd55b
+1652409747843	Marionette	INFO	Listening on port 51245
+1652409748197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652409751942	Marionette	INFO	Stopped listening on port 51245
+[Parent 2084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652409812494	geckodriver	INFO	Listening on 127.0.0.1:51328
+1652409817773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51329" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileqDZ6AU"
+*** You are running in headless mode.
+1652409818175	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51329/devtools/browser/fc1ccfbb-a2a9-4820-9609-40b6781d5995
+1652409819711	Marionette	INFO	Listening on port 51336
+1652409819886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652409823538	Marionette	INFO	Stopped listening on port 51336
+1652410401943	geckodriver	INFO	Listening on 127.0.0.1:51718
+1652410407190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51719" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileL9SOei"
+*** You are running in headless mode.
+1652410407558	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51719/devtools/browser/69c5207a-846b-49ae-8914-51b5ae78b31c
+1652410408945	Marionette	INFO	Listening on port 51726
+1652410409355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileL9SOei\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51816
+1652410483727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51817" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileNVoBW9"
+*** You are running in headless mode.
+1652410484158	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51817/devtools/browser/af585648-4c85-4ff3-972d-11c233293bc4
+1652410485654	Marionette	INFO	Listening on port 51825
+1652410485838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileNVoBW9\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51915
+1652410577865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51916" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilepPdtSb"
+*** You are running in headless mode.
+1652410578313	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:51916/devtools/browser/32084736-3fd3-4596-b9dc-5dac8693ef2d
+1652410579834	Marionette	INFO	Listening on port 51923
+1652410579973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilepPdtSb\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52057
+1652410759107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52058" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilerwOYlX"
+*** You are running in headless mode.
+1652410759509	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52058/devtools/browser/60360a8f-69ed-4bb7-b184-4e799e5ad41e
+1652410760934	Marionette	INFO	Listening on port 52066
+1652410761221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilerwOYlX\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52180
+1652410891003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52181" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileiedsGg"
+*** You are running in headless mode.
+1652410891397	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52181/devtools/browser/dffe4e8d-c20e-4ec2-b044-78912571897f
+1652410892913	Marionette	INFO	Listening on port 52189
+1652410893113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileiedsGg\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52288
+1652411000968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52289" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilewlODem"
+*** You are running in headless mode.
+1652411001512	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52289/devtools/browser/34b23d59-4111-4f17-849b-ee0bc15146cf
+1652411002941	Marionette	INFO	Listening on port 52296
+1652411003083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilewlODem\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52367
+1652411048441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52368" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileGKOpmp"
+*** You are running in headless mode.
+1652411048827	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52368/devtools/browser/67a931f7-d6e7-468d-980c-d178c5015c0a
+1652411050558	Marionette	INFO	Listening on port 52376
+1652411050677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileGKOpmp\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52589
+1652411288026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52590" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile4sX31n"
+*** You are running in headless mode.
+1652411288423	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52590/devtools/browser/f2c0ff81-8ea0-4807-b446-35d32223d8da
+1652411290224	Marionette	INFO	Listening on port 52599
+1652411290754	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile4sX31n\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52666
+1652411338334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52667" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileiNMncM"
+*** You are running in headless mode.
+1652411338738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:52667/devtools/browser/1f874e56-4709-4344-9255-bff3a921bd7a
+1652411340317	Marionette	INFO	Listening on port 52676
+1652411340446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileiNMncM\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileiNMncM\thumbnails) because it does not exist
+\AppData\\Local\\Temp\\rust_mozprofilegbcdIt"
+1652411645345	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:52907/devtools/browser/efae9b87-e414-482e-b02b-09f14a2e0d3a
+1652411647916	Marionette	INFO	Listening on port 52915
+1652411648308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652411655115	Marionette	INFO	Stopped listening on port 52915
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652412254984	geckodriver	INFO	Listening on 127.0.0.1:53310
+1652412260352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53311" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilebX5Pvs"
+*** You are running in headless mode.
+1652412260748	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53311/devtools/browser/6d909fa5-0896-41a9-9eb5-b5f5aff4ceb1
+1652412262353	Marionette	INFO	Listening on port 53320
+1652412262470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilebX5Pvs\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53389
+1652412312286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53390" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileF0suHd"
+*** You are running in headless mode.
+1652412312688	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53390/devtools/browser/fa214668-2e4d-4e98-993d-faee095436c8
+1652412314372	Marionette	INFO	Listening on port 53397
+1652412314446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileF0suHd\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53482
+1652412390757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53483" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilehhiYSR"
+*** You are running in headless mode.
+1652412391149	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53483/devtools/browser/2502b9fb-c9e4-46b6-8419-7e2885d885a2
+1652412392641	Marionette	INFO	Listening on port 53491
+1652412392867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652412396357	Marionette	INFO	Stopped listening on port 53491
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652412760516	geckodriver	INFO	Listening on 127.0.0.1:53743
+1652412766016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53744" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileyEc16t"
+*** You are running in headless mode.
+1652412766391	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53744/devtools/browser/63170f82-576a-4191-b182-8709263ce1ce
+1652412767946	Marionette	INFO	Listening on port 53751
+1652412768124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileyEc16t\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53855
+1652412874814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53856" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile2AKIa4"
+*** You are running in headless mode.
+1652412875834	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53856/devtools/browser/59cd0295-2031-4d04-b0b0-e1ffb7a5b951
+1652412877276	Marionette	INFO	Listening on port 53864
+1652412877565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 141"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:141:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile2AKIa4\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53993
+1652413022918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53994" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileXNDcmI"
+*** You are running in headless mode.
+1652413023341	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:53994/devtools/browser/952cbd22-4760-4231-8fc1-8f5a3c4e3bc8
+1652413024858	Marionette	INFO	Listening on port 54002
+1652413025069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652413028511	Marionette	INFO	Stopped listening on port 54002
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652413109275	geckodriver	INFO	Listening on 127.0.0.1:54091
+1652413114441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54092" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilecVNp3b"
+*** You are running in headless mode.
+1652413114830	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54092/devtools/browser/d9da8941-0f0c-4921-b2ba-3f123cac9688
+1652413116388	Marionette	INFO	Listening on port 54099
+1652413116562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652413120525	Marionette	INFO	Stopped listening on port 54099
+1652413179429	geckodriver	INFO	Listening on 127.0.0.1:54180
+1652413184642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54181" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilep9T5Wv"
+*** You are running in headless mode.
+1652413185030	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54181/devtools/browser/e4ecb764-7353-4fd7-a781-da5870f18a5f
+1652413186532	Marionette	INFO	Listening on port 54189
+1652413186752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofilep9T5Wv\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54250
+1652413224775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54251" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile6p8iEJ"
+*** You are running in headless mode.
+1652413225168	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54251/devtools/browser/4e97165a-12a4-4e92-b605-59ffc1e8d30b
+1652413226992	Marionette	INFO	Listening on port 54259
+1652413227501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile6p8iEJ\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile2FuVwb"
+*** You are running in headless mode.
+1652413252250	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54320/devtools/browser/8bb29307-80a5-4238-8b1d-c6fdaa724d16
+1652413253775	Marionette	INFO	Listening on port 54328
+1652413254000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652413258014	Marionette	INFO	Stopped listening on port 54328
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652413291637	geckodriver	INFO	Listening on 127.0.0.1:54393
+1652413296991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54394" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofilebcvMbe"
+*** You are running in headless mode.
+1652413297842	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54394/devtools/browser/5d25984d-717f-4fe8-aea8-48c33264b289
+1652413299372	Marionette	INFO	Listening on port 54402
+1652413299727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1652413303369	Marionette	INFO	Stopped listening on port 54402
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1652413329247	geckodriver	INFO	Listening on 127.0.0.1:54468
+1652413334573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54469" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileiN0EAC"
+*** You are running in headless mode.
+1652413334959	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54469/devtools/browser/438dd2f1-ecb9-410d-8be9-2d9625ec1df6
+1652413336465	Marionette	INFO	Listening on port 54476
+1652413336687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileiN0EAC\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54545
+1652413388031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54546" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofile09vJg4"
+*** You are running in headless mode.
+1652413388441	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54546/devtools/browser/0c1a640e-1a7a-4887-b197-24355cd9f87d
+1652413389984	Marionette	INFO	Listening on port 54555
+1652413390143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofile09vJg4\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54689
+1652413545939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54690" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofiledvffkB"
+*** You are running in headless mode.
+1652413546468	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54690/devtools/browser/1c8b9a73-67e0-400f-86b2-b3774d34c56f
+1652413547994	Marionette	INFO	Listening on port 54699
+1652413548052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofiledvffkB\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:54760
+1652413585866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54761" "-no-remote" "-profile" "C:\\Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileUwpUqs"
+*** You are running in headless mode.
+1652413586252	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54761/devtools/browser/4eb2cdd7-44ff-4409-b52c-00a10787224e
+1652413587733	Marionette	INFO	Listening on port 54768
+1652413587972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileUwpUqs\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Users\\fabri\\AppData\\Local\\Temp\\rust_mozprofileVpM52b"
+*** You are running in headless mode.
+1652413611661	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://localhost:54826/devtools/browser/8bfa40d5-5363-476a-9003-bde2dd1f76a4
+1652413613163	Marionette	INFO	Listening on port 54833
+1652413613388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://1c0729a2-7f60-4e41-aaae-ac884e476949/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\fabri\AppData\Local\Temp\rust_mozprofileVpM52b\thumbnails) because it does not exist
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
